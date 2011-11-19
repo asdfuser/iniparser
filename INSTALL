@@ -1,7 +1,7 @@
 iniParser installation instructions
 -----------------------------------
 
-- Run autoreconf -i
+- Run autoreconf -f -i
 - Follow the autotools instructions below to build the library
 - Type 'test/iniexample' to launch the test program.
 - Type 'test/parse' to launch torture tests.
