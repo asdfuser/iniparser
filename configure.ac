@@ -1,5 +1,5 @@
 AC_PREREW(2.53)
-AC_INIT([iniparser], [3.0b], [Nicolas Devillard])
+AC_INIT([iniparser], [3.0], [Nicolas Devillard])
 AM_INIT_AUTOMAKE()
 
 AC_PROG_MAKE_SET
